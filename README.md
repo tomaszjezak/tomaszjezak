@@ -2,7 +2,7 @@
 
 I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computer Science. My work is focused on AI/ML research, specifically in NLP, Computer Vision, and Generative AI. I see AI as a potential force for tremendous good, and I am passionate about working toward that reality.
 
-📫 How to reach me:tomaszjezak0@gmail.com 
+📫 How to reach me: tomaszjezak0@gmail.com 
 
 <!--
 **tomaszjezak/tomaszjezak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
