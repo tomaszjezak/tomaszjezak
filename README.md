@@ -2,6 +2,8 @@
 
 I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computer Science. My work is focused on AI/ML research, specifically in NLP, Computer Vision, and Generative AI. I am passionate about creating intelligent systems using AI.
 
+I am seeking to collaborate on a project researching explainability of LLMs. My question: "To what extent do LLMs have an understanding of underlying concepts?"
+
 📫 How to reach me: tomaszjezak0@gmail.com 
 
 <!--
