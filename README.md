@@ -1,4 +1,8 @@
-### Hi there 👋
+### Tomasz Jezak
+
+<a href="https://www.linkedin.com/in/tomasz-jezak">
+  <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
 
 I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computer Science. My work is focused on AI/ML research, specifically in NLP, Computer Vision, and Generative AI. I am passionate about creating intelligent systems using AI.
 
