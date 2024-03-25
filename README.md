@@ -4,7 +4,7 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computing. My work is focused on AI/ML research, specifically in Computer Vision and NLP. I have also recently been interested in explainability and applying my extensive knowledge of math and stats to AI. I am passionate about creating intelligent systems using AI.
+I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computing. My interests are in AI/ML (Computer Vision, Natural Language Processing) and Data Science/Engineering. I am passionate about creating powerful AI systems using my extensive knowledge of math and stats.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
