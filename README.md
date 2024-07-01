@@ -4,7 +4,11 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I'm Tomasz, I'm finishing my undergrad at UCLA studying Applied Math and Computing. My interests are in AI/ML (Computer Vision, Natural Language Processing) and Data Science/Engineering. I am passionate about creating powerful AI systems using my extensive knowledge of math and stats.
+I'm Tomasz, an aspiring Machine Learning Engineer and Researcher. I graduated from UCLA with a B.S. in Applied Mathematics and will be starting a Software Engineer co-op position at Amazon Robotics.
+
+I have completed several projects in both Computer Vision and Natural Language Processing, leveraging my extensive knowledge of mathematics and statistics, and developing strong skills in PyTorch and research methodologies.
+
+I plan to begin graduate school in the fall of 2025.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
