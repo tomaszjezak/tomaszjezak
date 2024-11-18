@@ -4,11 +4,7 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I'm Tomasz, an aspiring Machine Learning Engineer and Researcher. I graduated from UCLA with a B.S. in Applied Mathematics and will be starting a Software Engineer co-op position at Amazon Robotics.
-
-I have completed several projects in both Computer Vision and Natural Language Processing, leveraging my extensive knowledge of mathematics and statistics, and developing strong skills in PyTorch and research methodologies.
-
-I plan to begin graduate school in the fall of 2025.
+I work at Amazon Robotics in the research lab of Dr. Yuri Ivanov. I'm researching a multimodal human detection system. I plan to begin graduate school in Fall 2025, working on robotics safety. I am especially interested in the fields of robotics under uncertainty and human-level perception. I graduated from UCLA with a B.S. in Applied Math in 2024.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
