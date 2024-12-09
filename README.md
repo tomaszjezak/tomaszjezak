@@ -4,7 +4,9 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I work at Amazon Robotics in the research lab of Dr. Yuri Ivanov. I'm researching a multimodal human detection system. I plan to begin graduate school in Fall 2025, working on robotics safety. I am especially interested in the fields of robotics under uncertainty and human-level perception. I graduated from UCLA with a B.S. in Applied Math in 2024.
+I work at Amazon Robotics in the research lab of Dr. Yuri Ivanov. I'm researching a multimodal, ML-based human detection system. I plan to begin graduate school in Fall 2025!
+
+My ultimate career goal is to create trustworthy machine learning systems that promote education, boost productivity, and improve health outcomes. These systems will be not only technologically advanced, but also transparent and interpretable to humans. Despite remarkable technological progress, current machine learning systems still lack the ability to fully explain their decision-making processes. I believe this transparency is crucial for their widespread adoption into daily life.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
