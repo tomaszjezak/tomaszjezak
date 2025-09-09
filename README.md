@@ -4,9 +4,11 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I work at Amazon Robotics in the research lab of Dr. Yuri Ivanov. I'm researching a multimodal, ML-based human detection system. I plan to begin graduate school in Fall 2025!
+I’m a machine learning researcher and engineer pursuing my M.S. in Computer Science at UC San Diego, with a focus on ML for robotics, particularly world models, sensory learning, and multi-robot control.
 
-My ultimate career goal is to create trustworthy machine learning systems that promote education, boost productivity, and improve health outcomes. These systems will be not only technologically advanced, but also transparent and interpretable to humans. Despite remarkable technological progress, current machine learning systems still lack the ability to fully explain their decision-making processes. I believe this transparency is crucial for their widespread adoption into daily life.
+Previously, I worked at Amazon Robotics on safety-critical human–robot interaction, building a large-scale multi-modal dataset and engineering an end-to-end ML pipeline. I also designed and implemented a ROS2-based multi-robot control framework for coordination and navigation.
+
+I’m passionate about building intelligent, uncertainty-aware robotic systems that can perceive, learn, and act reliably in complex environments.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
