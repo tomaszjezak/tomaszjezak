@@ -4,11 +4,11 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I’m a machine learning researcher and engineer pursuing my M.S. in Computer Science at UC San Diego, with a focus on ML for robotics, particularly world models, sensory learning, and multi-robot control.
+I’m a researcher and engineer currently pursuing my M.S. in Computer Science at UC San Diego. I'm building an autonomous car at the Cognitive Robotics Laboratory, under the supervision of Henrik Christensen.
 
-Previously, I worked at Amazon Robotics on safety-critical human–robot interaction, building a large-scale multi-modal dataset and engineering an end-to-end ML pipeline. I also designed and implemented a ROS2-based multi-robot control framework for coordination and navigation.
+Previously, I worked at Amazon Robotics on safety-critical human–robot interaction, building a large-scale multi-modal dataset and engineering an end-to-end ML pipeline. I also designed and implemented a ROS2-based multi-robot control framework (planning, coordination and navigation).
 
-I’m passionate about building intelligent, uncertainty-aware robotic systems that can perceive, learn, and act reliably in complex environments.
+I’m passionate about building autonomous robotic systems that can perceive, learn, and act reliably in complex environments.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
