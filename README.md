@@ -4,7 +4,7 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I’m a researcher and engineer currently pursuing my M.S. in Computer Science at UC San Diego. I'm building an autonomous car at the Cognitive Robotics Laboratory, under the supervision of Henrik Christensen.
+I’m an engineer and grad student focusing on ML and Robotics at UC San Diego, in Henrik Christensen's Cognitive Robotics Laboratory.
 
 Previously, I worked at Amazon Robotics on safety-critical human–robot interaction, building a large-scale multi-modal dataset and engineering an end-to-end ML pipeline. I also designed and implemented a ROS2-based multi-robot control framework (planning, coordination and navigation).
 
