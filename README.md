@@ -4,11 +4,9 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I’m an engineer and grad student focusing on ML and Robotics at UC San Diego, in Henrik Christensen's Cognitive Robotics Laboratory.
+I’m an engineer and graduate student focusing on ML and Robotics at UC San Diego, advised by Henrik Christensen and Xiaolong Wang. I'll be interning at Amazon Industrial Robotics this summer.
 
-Previously, I worked at Amazon Robotics on safety-critical human–robot interaction, building a large-scale multi-modal dataset and engineering an end-to-end ML pipeline. I also designed and implemented a ROS2-based multi-robot control framework (planning, coordination and navigation).
-
-I’m passionate about building autonomous robotic systems that can perceive, learn, and act reliably in complex environments.
+I’m obsessed with applying Machine Learning and Robotics in valuable, real-world scenarios, especially in technologically-archaic, labor-starved industries. My thesis is directed toward construction.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
