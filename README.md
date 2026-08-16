@@ -4,7 +4,7 @@
   <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
 </a>
 
-I’m an engineer and graduate student focusing on ML and Robotics at UC San Diego, advised by Henrik Christensen and Xiaolong Wang. I'll be interning at Amazon Industrial Robotics this summer.
+I’m an engineer and graduate student focusing on ML and Robotics at UC San Diego. I'm interning at Amazon Industrial Robotics this summer.
 
 I’m obsessed with applying Machine Learning and Robotics in valuable, real-world scenarios, especially in technologically-archaic, labor-starved industries. My thesis is directed toward construction.
 
