@@ -6,7 +6,7 @@
 
 I’m an engineer and graduate student focusing on ML and Robotics at UC San Diego. I'm interning at Amazon Industrial Robotics this summer.
 
-I’m obsessed with applying Machine Learning and Robotics in valuable, real-world scenarios, especially in technologically-archaic, labor-starved industries. My thesis is directed toward construction.
+I’m obsessed with applying Machine Learning and Robotics in valuable, real-world scenarios, especially in technologically-archaic, labor-starved industries. My thesis is directed toward construction estimation.
 
 📫 How to reach me: tomaszjezak0@gmail.com 
 
